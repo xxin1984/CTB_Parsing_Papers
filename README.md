@@ -1,7 +1,8 @@
 This is a repo listing some recommended papers on constituent parsing, dependency parsing and semantic role labeling on the CTB dataset, Collected by by Xin Xin.
 
 ### Constituent Parsing:
-1. **92.64**. "Rethinking Self-Attention: Towards Interpretablility in Neural Parsing. *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, and Ndapa Nakashole*, Arxiv 2020. [[paper]](https://arxiv.org/pdf/1911.03875.pdf)
+
+1. **92.64**. "Rethinking Self-Attention: Towards Interpretablility in Neural Parsing". *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, and Ndapa Nakashole*, Arxiv 2020. [[paper]](https://arxiv.org/pdf/1911.03875.pdf)
 
 2. **92.18**. "Head-Driven Phrase Structure Grammar Parsing on Penn Treebank", *Junru Zhou and Hai Zhao*, ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1230.pdf)
 
@@ -25,6 +26,29 @@ This is a repo listing some recommended papers on constituent parsing, dependenc
 
 12. **83.2**. "Fast and Accurate Shift-Reduce Constituent Parsing", *Muhua Zhu, Yue Zhang, Wenliang Chen, Min Zhang, and Jingbo Zhu*, ACL 2013. [[paper]](https://www.aclweb.org/anthology/P13-1043.pdf)
 
+### Dependency Parsing:
+
+1. **89.29**. "Stack-Pointer Networks for Dependency Parsing", *Xuezhe Ma, Zecong Hu, Jingzhou Liu, Nanyun Peng, Graham Neubig and Eduard Hovy*. ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1130.pdf)
+
+2. **89.28**. "Rethinking Self-Attention: Towards Interpretablility in Neural Parsing". *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, and Ndapa Nakashole*. Arxiv 2020. [[paper]](https://arxiv.org/pdf/1911.03875.pdf)
+
+3. **89.15**. "Head-Driven Phrase Structure Grammar Parsing on Penn Treebank", *Junru Zhou and Hai Zhao*, ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1230.pdf)
+
+4. **88.23**. "Deep Biaffine Attention for Neural Dependency Parsing", *Timothy Dozat and Christopher D. Manning*, ICLR 2017. [[paper]](https://openreview.net/pdf?id=Hk95PK9le) 
+
+5. **87.30**. "Distilling an Ensemble of Greedy Dependency Parsers into One MST Parser", *Adhiguna Kuncoro, Miguel Ballesteros, Lingpeng Kong, Chris Dyer, and Noah A. Smith*, EMNLP 2016. [[paper]](https://www.aclweb.org/anthology/D16-1180.pdf)
+
+6. **86.34**. "Enforcing Structural Diversity in Cube-Pruned Dependency Parsing", *Hao Zhang and Ryan McDonald*, ACL 2014. [[paper]](https://www.aclweb.org/anthology/P14-2107.pdf)
+
+7. **86.23**. "Graph-Based Dependency Parsing with Bidirectional LSTM", *Wenhui Wang and Baobao Chang*, ACL 2016. [[paper]](https://www.aclweb.org/anthology/P16-1218.pdf)
+
+8. **86.2**. "Training with Exploration Improves a Greedy Stack-LSTM Parser", *Miguel Ballesteros, Yoav Goldberg, Chris Dyer, and Noah A. Smith*, EMNLP 2016. [[paper]](https://www.aclweb.org/anthology/D16-1211.pdf)
+
+9. **86.1**. "Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations", *Eliyahu Kiperwasser and Yoav Goldberg*, TACL 2016. [[paper]](https://www.aclweb.org/anthology/Q16-1023.pdf)
+
+10. **85.7**. "Bi-directional Attention with Agreement for Dependency Parsing", *Hao Cheng, Hao Fang, Xiaodong He, Jianfeng Gao, Li Deng*, EMNLP 2016. [[paper]](https://www.aclweb.org/anthology/D16-1238.pdf)
+
+11. **85.7**. "Transition-Based Dependency Parsing with Stack Long Short-Term Memory" *Chris Dyer, Miguel Ballesteros, Wang Ling, Austin Matthews, and Noah A. Smith*, ACL 2015. [[paper]](https://www.aclweb.org/anthology/P15-1033.pdf)
 
 ### Semantic Role Labeling:
 
