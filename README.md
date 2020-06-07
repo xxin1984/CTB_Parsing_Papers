@@ -28,6 +28,21 @@ This is a repo listing some recommended papers on constituent parsing, dependenc
 
 ### Dependency Parsing:
 
+Joint Task of Segmentation and Parsing:
+
+1. **89.59**. "A Graph-based Model for Joint Chinese Word Segmentation and Dependency Parsing", *Hang Yan, Xipeng Qiu, and Xuanjing Huang*. TACL 2020. [[paper]](https://arxiv.org/pdf/1904.04697.pdf)
+
+2. **82.01**. "Randomized greedy inference for joint segmentation, POS tagging and dependency parsing", *Yuan Zhang, Chengtao Li, Regina Barzilay, and Kareem Darwish.* NAACL HLT 2015. [[paper]](http://www.anthology.aclweb.org/N/N15/N15-1005.pdf)
+
+3. **81.70**. "Character-level Chinese dependency parsing", *Meishan Zhang, Yue Zhang, Wanxiang Che, and TingLiu.*. ACL 2014. [[paper]](http://www.anthology.aclweb.org/P/P14/P14-1125.pdf)
+
+4. **81.56**. " Incremental joint approach to word segmentation, POS tagging, and dependency parsing in Chinese", *Jun Hatori, Takuya Matsuzaki, Yusuke Miyao, and Jun’ichi Tsujii.* ACL 2012. [[paper]](http://anthology.aclweb.org/P/P12/P12-1110.pdf)
+
+5. **81.42**. "Neural Joint Model for Transition-based Chinese Syntactic Analysis", *Shuhei Kurita, Daisuke Kawahara, and Sadao Kurohashi*. ACL 2017. [[paper]](https://www.aclweb.org/anthology/P17-1111.pdf)
+
+
+Single Task:
+
 1. **89.29**. "Stack-Pointer Networks for Dependency Parsing", *Xuezhe Ma, Zecong Hu, Jingzhou Liu, Nanyun Peng, Graham Neubig and Eduard Hovy*. ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1130.pdf)
 
 2. **89.28**. "Rethinking Self-Attention: Towards Interpretablility in Neural Parsing". *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, and Ndapa Nakashole*. Arxiv 2020. [[paper]](https://arxiv.org/pdf/1911.03875.pdf)
