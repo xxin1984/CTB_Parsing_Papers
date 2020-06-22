@@ -26,6 +26,9 @@ This is a repo listing some recommended papers on constituent parsing, dependenc
 
 12. **83.2**. "Fast and Accurate Shift-Reduce Constituent Parsing", *Muhua Zhu, Yue Zhang, Wenliang Chen, Min Zhang, and Jingbo Zhu*, ACL 2013. [[paper]](https://www.aclweb.org/anthology/P13-1043.pdf)
 
+unpublished:
+1. **92.64**. "Rethinking Self-Attention: Towards Interpretability in Neural Parsing", *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, and Ndapa Nakashole*. [[paper]](https://arxiv.org/pdf/1911.03875)
+
 ### Dependency Parsing:
 
 Joint Task of Segmentation and Parsing:
