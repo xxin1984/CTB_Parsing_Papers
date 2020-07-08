@@ -66,7 +66,11 @@ Single Task:
 
 10. **85.7**. "Bi-directional Attention with Agreement for Dependency Parsing", *Hao Cheng, Hao Fang, Xiaodong He, Jianfeng Gao, Li Deng*, EMNLP 2016. [[paper]](https://www.aclweb.org/anthology/D16-1238.pdf)
 
-11. **85.7**. "Transition-Based Dependency Parsing with Stack Long Short-Term Memory" *Chris Dyer, Miguel Ballesteros, Wang Ling, Austin Matthews, and Noah A. Smith*, ACL 2015. [[paper]](https://www.aclweb.org/anthology/P15-1033.pdf)
+11. **85.7**. "Transition-Based Dependency Parsing with Stack Long Short-Term Memory", *Chris Dyer, Miguel Ballesteros, Wang Ling, Austin Matthews, and Noah A. Smith*, ACL 2015. [[paper]](https://www.aclweb.org/anthology/P15-1033.pdf)
+
+unpublished:
+
+**92.29**. "Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT", Han He and Jinho D. Choi, 2020. [[paper]](https://arxiv.org/pdf/1908.04943v3.pdf)
 
 ### Semantic Role Labeling:
 
